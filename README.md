@@ -58,4 +58,10 @@ For this, a custom server is created using Express and exposed to the Internet u
 - Ngrok
 - Slack API
 
+
+https://github.com/arghadeep23/Slack-Command/assets/91934528/115c42d2-7efa-4c4f-9709-4c5f09a6650f
+
+
+
+
 Note : This project is made as a part of my assignment task from InternBit. 
